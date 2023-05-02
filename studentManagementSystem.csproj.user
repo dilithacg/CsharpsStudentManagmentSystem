@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="addCoursePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="C:\Users\dilitha\Desktop\New folder %288%29\addStudent.sln">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="C:\Users\dilitha\Desktop\New folder (8)\addStudent.form">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="C:\Users\dilitha\Desktop\New folder (8)\addStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="homepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="manageStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
